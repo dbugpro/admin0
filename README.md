@@ -9,7 +9,7 @@ Requirements
 
 Install
 
-Open PowerShell in the project root (`c:\Users\dbugx\source\repos\admin0`) and run:
+Open PowerShell in the project root (`c:\Users\dbugp\source\repos\admin0`) and run:
 
 ```powershell
 npm.cmd install
